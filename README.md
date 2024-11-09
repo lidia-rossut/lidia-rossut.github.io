@@ -1,7 +1,7 @@
 # lidia-rossut.github.io
 ## Project Analysis
 ### User Profile
-This website is designed for HR professionals, especially those in the tech sector, who are looking for a well-rounded profile in computer engineering with programming skills and adaptability. The ideal user is a recruiter or hiring manager who needs a quick overview of my skills and experience. The site is also intended for consultants or academics interested in collaboration opportunities with advanced computer engineering students like myself.
+This website is designed for HR professionals, especially in techonology sector, who are looking for a well-rounded profile in computer engineering with programming skills and adaptability. The ideal user is a hiring employee who needs a quick overview of my skills and experience. The site is also intended for consultants or academics interested in collaboration opportunities with computer engineering students like myself.
 
 ### Information Architecture
 I’ve structured the information on this page to make navigation straightforward, with sections organized to deliver a clear and efficient experience. 
