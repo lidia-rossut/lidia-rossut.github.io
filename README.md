@@ -18,3 +18,4 @@ I chose simple, sans-serif fonts for readability and a minimalist aesthetic. Int
 
 ### Link to Figma Project
 Here is the link to my Figma project with the visual design of the page:
+https://www.figma.com/design/dkBL9AHtiVDhaS4yMnayhR/L%C3%ADdia-Rossut-Mar%C3%ADn-CV---Hypermedia-Project?node-id=1-2&t=2dVtqSHGMajADJDh-1
