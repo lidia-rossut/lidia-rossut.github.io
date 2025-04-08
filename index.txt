@@ -2,40 +2,42 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Lídia Rossut Marín
+Lídia Rossut Marín
+Computer Engineering Student
 
 Show Contacts
 
 Email
-richard@example.com
+lrossut94@gmail.com
 
 Phone
-+1 (213) 352-2795
+640 50 19 76
 
 Birthday
-June 23, 1982
+21 d'octubre de 2002
 
 Location
-Sacramento, California, USA
+Santa Coloma de Farners, Girona
 
 # navbar
 
 About
 Resume
-Portfolio
+Projects
 Blog
 Contact
 
 # about
 
 About me
+I’m a Computer Engineering student, passionate about software development. I enjoy working on both backend and frontend, which is why in the future I would love to become a full-stack developer.
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Throughout my university studies, I’ve worked on projects related to web and mobile app development, databases (SQL), computer networks, operating systems, artificial intelligence, and industrial automation. This experience has helped me gain a solid technical foundation and explore different areas within software engineering.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+I love thinking and solving problems — whether they are related to industry, artificial intelligence, user interfaces, or infrastructure. I enjoy creating practical and creative solutions that can improve people’s lives or make work more efficient.
 
+So far, I’ve worked with technologies like Spring Boot, Android Studio, Retrofit, and MariaDB, and I also have experience developing websites using WordPress. I’m especially interested in APIs, accessibility, cybersecurity, and user experience.
 
 ## service
 

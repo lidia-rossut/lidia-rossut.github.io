@@ -1074,6 +1074,26 @@ main {
   transition: var(--transition-1);
 }
 
+.certificate-box {
+  width: 250px; /* Amplada fixa per a tots els certificats */
+  height: 180px; /* Alçada fixa per a tots els certificats */
+  background-color: #333;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+
+.certificate-box img {
+  width: 80%; /* Ajusta la mida de la imatge dins de la caixa */
+  height: auto;
+  object-fit: contain; /* Manté les proporcions de la imatge */
+}
+
 .blog-post-item > a:hover .blog-banner-box img { transform: scale(1.1); }
 
 .blog-content { padding: 15px; }
